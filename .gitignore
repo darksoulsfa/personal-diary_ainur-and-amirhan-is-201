@@ -1,0 +1,7 @@
+__pycache__
+*.log
+venv/
+.DS_Store
+.venv
+LICENSE.txt
+requirements.txt
